@@ -16,4 +16,4 @@ Next, to run and code and see its output:
 echo $?
 ```
 
-Since this is an incredibly simple assembly program, all it does is return an exit code. The only way to see that the program ran is it use `echo $?` to see the exit code of the previously run command (in this case, ./start).
+Since this is an incredibly simple assembly program, all it does is return an exit code. The only way to see that the program ran is it use `echo $?` to see the exit code of the previously run command (in this case, `./start`).
