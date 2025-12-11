@@ -1,4 +1,4 @@
-You can run it on your Android phone using (Termux)[https://termux.dev/en/].
+You can run it on your Android phone using [Termux](https://termux.dev/en/).
 
 In Termux:
 ``` bash
