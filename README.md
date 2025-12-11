@@ -10,7 +10,7 @@ ld -o stack stack.o
 
 The `as` command assembles the binary and the `ld` commands links it to system libraries so it can be run as an executable. If running either of those commands gives you trouble, simply install the dependencies Termux prompts you to install.
 
-Next, to run and code and see its output:
+Next, to run the code and see its output:
 ``` bash
 ./stack
 echo $?
